@@ -27,5 +27,5 @@ ATT: Quando mi trovo nella situazione in cui i props hanno lo stesso nome delle 
 
 ATT2: A questo punto posso anche utilizzare direttamente la destrutturazione delle variabili nella funzione che crea il component andando a passare delle variabili che portano lo stesso nome delle proprietà degli oggetti. 
 
-(Restructuring Assignment)[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment#rest_property]
+[Restructuring Assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment#rest_property)
 

@@ -4,7 +4,7 @@ React ci permette di passare dati attraverso un principio chiamato Prop
 
 ## Cosa sono i Props
 Sono degli attributi custom che vado a definire nel momento in cui vado a renderizzare un component attraverso il suo nome.
-```
+```html
  <ul>
     <CoreConcept titolo="Components" descrizione="Cosa sono e come si usano i components" />
     <CoreConcept/>

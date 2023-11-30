@@ -1,4 +1,4 @@
-import reactLogo from "./assets/react.svg";
+import reactLogo from "./assets/react-core-concepts.png";
 import "./App.css";
 
 import { CORE_CONCEPTS } from "./data.js";

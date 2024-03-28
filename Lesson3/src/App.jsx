@@ -20,6 +20,7 @@ function App() {
         <section id="core-concepts">
           <h2>Cominciamo !!!</h2>
           <ul>
+            {/* l'Array di CoreConcepts arriva dal js */}
             <CoreConcept
               title={CORE_CONCEPTS[0].title}
               description={CORE_CONCEPTS[0].description}

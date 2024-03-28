@@ -10,7 +10,7 @@ function App() {
 
 
   function handleSeleziona(){
-    console.log("Mammt - Selezionata");
+    console.log("Qualcosa - Selezionata");
   }
 
   return (
